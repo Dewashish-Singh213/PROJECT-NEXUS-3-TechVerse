@@ -1,5 +1,5 @@
 # TechVerse - Software Company Website
-## ( [Click here to view the deployed website](https://techverse-livid.vercel.app/) )
+## ( [TechVerse](https://techverse-livid.vercel.app/) )
 
 This project is an extension of my internship at Nexus Info, where I worked on developing a feature-rich website for a software company. The intention was to demonstrate my ability to provide excellent online solutions.
 
