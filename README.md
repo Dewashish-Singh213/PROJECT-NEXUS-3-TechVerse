@@ -32,7 +32,7 @@ This website, which highlights our services, portfolio, and cutting-edge project
 To set up a local copy:
 
 1. Clone the repo:
-   ```sh
+ ```sh
    git clone https://github.com/Dewashish-Singh213/Project-Nexus-3-TechVerse.git
    ```
 2.Navigate to the directory:
