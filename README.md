@@ -35,7 +35,7 @@ To set up a local copy:
  ```sh
    git clone https://github.com/Dewashish-Singh213/Project-Nexus-3-TechVerse.git
    ```
-2.Navigate to the directory:
+2. Navigate to the directory:
  ```sh
    cd TechVerse
    ```
