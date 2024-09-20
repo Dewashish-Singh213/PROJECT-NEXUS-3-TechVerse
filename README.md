@@ -44,4 +44,4 @@ To set up a local copy:
 ## Acknowledgments
 
 - Special thanks to Nexus Info for the opportunity to work on this significant project during my internship.
-- Gratitude to all the mentors and colleagues who provided guidance and support throughout this journey.
+- Gratitude to all the mentors and colleagues who provided guidance and support throughout the journey.
