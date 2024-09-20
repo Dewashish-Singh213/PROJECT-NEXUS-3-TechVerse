@@ -5,7 +5,7 @@ This project is an extension of my internship at Nexus Info, where I worked on d
 
 ## Overview
 
-This website, which highlights our services, portfolio, and cutting-edge projects that demonstrate our dedication to excellence in the IT business, is easy to use and offers a captivating user experience thanks to its modern web technologies.
+This website, which highlights our services, portfolio, and cutting-edge projects demonstrating our dedication to excellence in the IT business, is easy to use and offers a captivating user experience thanks to its modern web technologies.
 
 ## Features
 
